@@ -218,8 +218,9 @@ The easiest way to monitor and use [RQ](http://python-rq.org) in your Pyramid pr
 ## CMS
 
 * [nive_cms](https://github.com/nive/nive_cms) - Nive is professional out the box content management system for mobile and desktop websites based on python and the webframework pyramid. Please refer to the website cms.nive.co for detailed information.
-* [substanced](https://github.com/Pylons/substanced) - An application server built upon the Pyramid web framework. It provides a user interface for managing content as well as libraries and utilities which make it easy to create applications.
+* [substanced](https://github.com/Pylons/substanced) - An application server built upon the Pyramid web framework. It provides a user interface for managing content as well as libraries and utilities which make it easy to create applications. Uses ZODB as database.
 * [Kotti](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and extensible web content management system. Based on Pyramid and SQLAlchemy.
+* [substancek](http://davidemoro.blogspot.com/2015/08/introducing-substancek-kotti-project.html) A mixture of two above: kotti_backend + Kotti + Pyramid + SQLAlchemy 
 * [KARL](http://karlproject.org/) -     A moderately-sized application (roughly 80K lines of Python code) built on top of Pyramid. It is an open source web system for collaboration, organizational intranets, and knowledge management. It provides facilities for wikis, calendars, manuals, searching, tagging, commenting, and file uploads. See the KARL site for download and installation details.
 
 ## e-Commerce
