@@ -400,6 +400,7 @@ provide new storage backends.*
 * [Khufu Project](http://khufuproject.github.io/) - Khufu is an application
   scaffolding for Pyramid that provides an environment to work with Jinja2 and
   SQLAlchemy.
+* [SMS for Pyramid](http://pyramid-sms.readthedocs.io/en/latest/) - pyramid_sms package gives ability for SMS communications using Twilio and other SMS services
 * [Ptah](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open
   source high-level Python web development environment.
 * [warehouse](https://github.com/pypa/warehouse) - Warehouse is a next
